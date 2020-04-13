@@ -1,0 +1,15 @@
+{
+  "name": "untappd-api-auth",
+  "version": "1.0.0",
+  "description": "Simple HTTP server to handle OAuth redirects for the Untappd API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Remko Plantenga <sonata82@gmail.com>",
+  "license": "GPL-3.0-only",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
